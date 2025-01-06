@@ -1,0 +1,6 @@
+.horizontal-list {
+	display: flex;
+	gap: 1rem;
+	list-style: none;
+	padding-left: 0;
+}
